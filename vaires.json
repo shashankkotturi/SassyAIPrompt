@@ -1,0 +1,13 @@
+{
+  "name": "Sassy AI Prompt",
+  "kind": "prompt",
+  "version": "1.0.0",
+  "author": "Shashank Kotturi",
+  "license": "MIT",
+  "description": "A prompt that informs your AI system to be sassy in a funny way.",
+  "tags": ["sassy", "funny", "chill"],
+  "entrypoint": "sassy.prompt.json",
+  "pricePlan": {
+    "type": "free"
+  }
+}
